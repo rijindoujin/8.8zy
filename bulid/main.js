@@ -1,0 +1,1 @@
+require.config({baseUrl:"./js/",paths:{ajax:"app/getdata"}}),require(["ajax"],function(a){a()});
